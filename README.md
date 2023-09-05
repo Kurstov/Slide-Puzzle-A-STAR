@@ -5,7 +5,12 @@ The program does not have a scrambler so make sure that the problem you provide 
 
 Example:
 
-Start              End
-{ 6, 0, 8 },      { 1, 2, 3 },
-{ 4, 3, 5 },      { 4, 5, 6 },
-{ 1, 2, 7 },      { 7, 8, 0 },
+Start
+{ 6, 0, 8 },
+{ 4, 3, 5 },
+{ 1, 2, 7 },
+
+End
+{ 1, 2, 3 },
+{ 4, 5, 6 },
+{ 7, 8, 0 },
