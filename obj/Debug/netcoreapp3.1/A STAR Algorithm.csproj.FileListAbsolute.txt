@@ -1,0 +1,27 @@
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.exe
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.deps.json
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.runtimeconfig.json
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.runtimeconfig.dev.json
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.dll
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.pdb
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.csprojAssemblyReference.cache
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.AssemblyInfoInputs.cache
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.AssemblyInfo.cs
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.dll
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.pdb
+C:\Users\Dmitriy\source\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.genruntimeconfig.cache
+F:\Visual Studio\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.exe
+F:\Visual Studio\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.deps.json
+F:\Visual Studio\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.runtimeconfig.json
+F:\Visual Studio\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.runtimeconfig.dev.json
+F:\Visual Studio\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.dll
+F:\Visual Studio\repos\A STAR Algorithm\bin\Debug\netcoreapp3.1\A STAR Algorithm.pdb
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.AssemblyInfoInputs.cache
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.AssemblyInfo.cs
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.csproj.CoreCompileInputs.cache
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.dll
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.pdb
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.genruntimeconfig.cache
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.csproj.AssemblyReference.cache
+F:\Visual Studio\repos\A STAR Algorithm\obj\Debug\netcoreapp3.1\A STAR Algorithm.GeneratedMSBuildEditorConfig.editorconfig

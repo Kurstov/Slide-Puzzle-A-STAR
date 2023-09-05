@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cINB90rOBzxWZ1V+b/7tfKkMyoMZA9Q+K8/N9PWGnmJeFlV/TQYzrLQACWcL+QnWwo6kJlJPTo7N6yXXhB8OiQ==",
+  "success": true,
+  "projectFilePath": "F:\\Visual Studio\\repos\\A STAR Algorithm\\A STAR Algorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dmitriy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
